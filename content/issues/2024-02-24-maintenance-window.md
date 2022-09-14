@@ -1,9 +1,9 @@
 ---
-title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+title: Annonce de maintenance
+date: 2022-12-24 10:35:00 
 informational: true
 pin: true 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+Nous allons mettre à jour un de nos routeurs edge le 24 décembre à 10h35. Aucun impact prévu.
