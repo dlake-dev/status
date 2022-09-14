@@ -6,4 +6,4 @@ pin: true
 section: issue
 ---
 
-Nous allons mettre à jour un de nos routeurs edge le 24 décembre à 10h35. Aucun impact prévu.
+Nous allons mettre à jour un de nos routeurs edge le 24 décembre à 10h35. Aucun impact prévu. Salut Arnaud
